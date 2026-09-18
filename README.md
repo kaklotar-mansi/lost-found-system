@@ -79,3 +79,27 @@ writes data — e.g. the moment you register your first user.
 | GET    | /api/claims/received                | Private | Claims received on your items   |
 | PUT    | /api/claims/:id                       | Private | Approve/reject a claim          |
 | GET    | /api/dashboard/stats                    | Public  | Dashboard statistics            |
+
+
+## Screenshots
+
+### Home — Browse & Filter Items
+![Home Page](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Register
+![Register](screenshots/register.png)
+
+### Report Lost/Found Item
+![Report Item](screenshots/report-item.png)
+
+### Item Detail & Claim
+![Item Detail](screenshots/item-detail.png)
+
+### My Reports
+![My Reports](screenshots/my-reports.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
